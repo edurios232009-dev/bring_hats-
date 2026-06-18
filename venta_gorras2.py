@@ -1,4 +1,3 @@
-Bring hats app · PY
 import streamlit as st
  
 # ─────────────────────────────────────────────
